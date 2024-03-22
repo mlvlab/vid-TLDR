@@ -2,7 +2,7 @@
 
 Official implementation of CVPR 2024 paper "vid-TLDR: Training Free Token merging for Light-weight Video Transformer".
 
-Code will be released soon after the conference.
+Code will be released soon.
 
 
 ## Citation

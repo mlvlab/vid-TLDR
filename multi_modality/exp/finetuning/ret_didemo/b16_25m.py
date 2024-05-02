@@ -11,7 +11,7 @@ train_file = [
 ]
 test_file = dict(
     val=[
-        f"{anno_root_downstream}/didemo_ret_val_new.json",
+        f"{anno_root_downstream}/didemo_ret_val.json",
         f"your_didemo_path_val",
         "video",
     ],

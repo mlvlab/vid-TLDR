@@ -29,7 +29,7 @@ Please refer to [UMT](https://github.com/OpenGVLab/unmasked_teacher) for environ
 
 ### Pretrained checkpoint.
 1. All experiments were evaluated without additional training, utilizing the checkpoint publicly available in UMT. 
-2. the model can be obtained from [MODEL_ZOO.md](https://github.com/OpenGVLab/unmasked_teacher/blob/main/multi_modality/MODEL_ZOO.md).
+2. The model can be obtained from [MODEL_ZOO.md](https://github.com/OpenGVLab/unmasked_teacher/blob/main/multi_modality/MODEL_ZOO.md).
 
 # 2. Evaluation
 ### Video-Text Retrieval

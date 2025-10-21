@@ -3,22 +3,6 @@
 
 Official implementation of CVPR 2024 paper [vid-TLDR: Training Free Token merging for Light-weight Video Transformer](https://arxiv.org/abs/2403.13347).
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vid-tldr-training-free-token-merging-for/video-retrieval-on-msr-vtt)](https://paperswithcode.com/sota/video-retrieval-on-msr-vtt?p=vid-tldr-training-free-token-merging-for)  
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vid-tldr-training-free-token-merging-for/video-retrieval-on-msvd)](https://paperswithcode.com/sota/video-retrieval-on-msvd?p=vid-tldr-training-free-token-merging-for)  
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vid-tldr-training-free-token-merging-for/video-retrieval-on-activitynet)](https://paperswithcode.com/sota/video-retrieval-on-activitynet?p=vid-tldr-training-free-token-merging-for)  
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vid-tldr-training-free-token-merging-for/video-retrieval-on-didemo)](https://paperswithcode.com/sota/video-retrieval-on-didemo?p=vid-tldr-training-free-token-merging-for)  
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vid-tldr-training-free-token-merging-for/video-retrieval-on-lsmdc)](https://paperswithcode.com/sota/video-retrieval-on-lsmdc?p=vid-tldr-training-free-token-merging-for)  
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vid-tldr-training-free-token-merging-for/video-retrieval-on-ssv2-label-retrieval)](https://paperswithcode.com/sota/video-retrieval-on-ssv2-label-retrieval?p=vid-tldr-training-free-token-merging-for)  
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vid-tldr-training-free-token-merging-for/video-retrieval-on-ssv2-template-retrieval)](https://paperswithcode.com/sota/video-retrieval-on-ssv2-template-retrieval?p=vid-tldr-training-free-token-merging-for)  
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vid-tldr-training-free-token-merging-for/zero-shot-video-retrieval-on-activitynet)](https://paperswithcode.com/sota/zero-shot-video-retrieval-on-activitynet?p=vid-tldr-training-free-token-merging-for)  
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vid-tldr-training-free-token-merging-for/zero-shot-video-retrieval-on-didemo)](https://paperswithcode.com/sota/zero-shot-video-retrieval-on-didemo?p=vid-tldr-training-free-token-merging-for)  
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vid-tldr-training-free-token-merging-for/zero-shot-video-retrieval-on-msvd)](https://paperswithcode.com/sota/zero-shot-video-retrieval-on-msvd?p=vid-tldr-training-free-token-merging-for)  
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vid-tldr-training-free-token-merging-for/zero-shot-video-retrieval-on-msr-vtt)](https://paperswithcode.com/sota/zero-shot-video-retrieval-on-msr-vtt?p=vid-tldr-training-free-token-merging-for)  
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vid-tldr-training-free-token-merging-for/visual-question-answering-on-msrvtt-qa-1)](https://paperswithcode.com/sota/visual-question-answering-on-msrvtt-qa-1?p=vid-tldr-training-free-token-merging-for)  
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vid-tldr-training-free-token-merging-for/visual-question-answering-on-msvd-qa-1)](https://paperswithcode.com/sota/visual-question-answering-on-msvd-qa-1?p=vid-tldr-training-free-token-merging-for)  
-
 ## 1. Setup 
 ### Requirements
 Please refer to [UMT](https://github.com/OpenGVLab/unmasked_teacher) for environments.
